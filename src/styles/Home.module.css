@@ -1,0 +1,7 @@
+.genderSearch {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 100px 200px;
+  font-size: 30px;
+}
