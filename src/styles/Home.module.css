@@ -5,3 +5,8 @@
   gap: 100px 200px;
   font-size: 30px;
 }
+
+.home {
+  display: flex;
+  justify-content: space-between;
+}

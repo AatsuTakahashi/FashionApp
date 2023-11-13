@@ -1,0 +1,19 @@
+.favorite_title {
+  font-size: 20px;
+  padding-bottom: 5%;
+  color: #696969;
+}
+
+.favorite_row {
+  text-decoration: none;
+}
+
+.favorite_item {
+  margin: 10px 0;
+  font-size: 15px;
+  color: #808080;
+}
+
+.favoriteItems {
+  padding: 0;
+}
